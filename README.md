@@ -1,4 +1,4 @@
-# ScribbleSense AI - Dil Öğrenme Koçu & Masaüstü Asistanı
+# DilKoçu AI - Akademik Dil Öğrenme Koçu
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 ## 📖 Proje Hakkında
 Bu proje, **Ufuk Asıl** tarafından geliştirilen "AI Asistan Kampüsü" projesi temel alınarak fork edilmiş ve üzerinde kapsamlı geliştirmeler yapılarak bir **"Dil Öğrenme Koçu"** haline getirilmiştir. 
 
-ScribbleSense AI, bilgisayarınızda (PDF, Word, Tarayıcı vb.) seçtiğiniz herhangi bir metni tek bir tıklamayla (**🤖 AI Butonu**) veya kısayol tuşuyla (**Shift + Alt + G**) analiz eder, sesli telaffuz eder ve size o metnin gramer yapısını öğreten bir asistan vazifesi görür.
+DilKoçu AI, bilgisayarınızda (PDF, Word, Tarayıcı vb.) seçtiğiniz herhangi bir metni tek bir tıklamayla (**🤖 AI Butonu**) veya kısayol tuşuyla (**Shift + Alt + G**) analiz eder, sesli telaffuz eder ve size o metnin gramer yapısını öğreten bir asistan vazifesi görür.
 
 ---
 

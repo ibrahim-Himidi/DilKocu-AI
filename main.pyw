@@ -238,7 +238,7 @@ def pencere_modunda_gosterilsin_mi(komut_adi):
 
 def sonuc_penceresi_goster(baslik, icerik, orijinal_metin=None):
     pencere = tk.Toplevel(root)
-    pencere.title(f"ScribbleSense AI - {baslik}")
+    pencere.title(f"DilKoçu AI - {baslik}")
     pencere.geometry("820x600")
     pencere.minsize(600, 400)
     pencere.configure(bg="#121212")
@@ -482,7 +482,7 @@ class FloatingButton:
     def __init__(self, parent):
         self.parent = parent
         self.window = tk.Toplevel(parent)
-        self.window.title("ScribbleSense AI Trigger")
+        self.window.title("DilKoçu AI Trigger")
         
         # Pencere ayarları: Başlık çubuğunu kaldır ve her zaman üstte tut
         self.window.overrideredirect(True)
@@ -565,7 +565,7 @@ if __name__ == "__main__":
     print("⚠️  SÜRÜM: 2.0 (GELISMIS DIL KOCU)")
     print("!" * 60 + "\n")
     print("=" * 60)
-    print("🤖 AI Asistan - Metin İşleme")
+    print("🤖 DilKoçu AI - Metin İşleme")
     print("=" * 60)
     aktif_text_model = get_available_text_model()
     print(f"📦 Metin İşleme (Shift+Alt+G): {aktif_text_model}")

@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# --- ScribbleSense AI Kurulum Betiği (Fedora/Ubuntu/Arch Uyumlu) ---
+# --- DilKoçu AI Kurulum Betiği (Fedora/Ubuntu/Arch Uyumlu) ---
 
 echo "============================================================"
-echo "🚀 ScribbleSense AI Kurulumu Başlatılıyor..."
+echo "🚀 DilKoçu AI Kurulumu Başlatılıyor..."
 echo "============================================================"
 
 # Dağıtım tespiti
