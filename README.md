@@ -7,14 +7,14 @@
 `Local AI + TTS + Deep Learning = Akıllı Dil Öğrenme Deneyimi`
 
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-111827?style=for-the-badge)](https://docs.ollama.com/quickstart)
-[![Fork Info](https://img.shields.io/badge/Forked%20From-Ufuk%20As%C4%B1l-orange?style=for-the-badge)](https://github.com/u-asil)
+[![Fork Info](https://img.shields.io/badge/Forked%20From-Dr.%20Ufuk%20As%C4%B1l-orange?style=for-the-badge)](https://github.com/u-asil)
 
 </div>
 
 ---
 
 ## 📖 Proje Hakkında
-Bu proje, **Ufuk Asıl** tarafından geliştirilen "AI Asistan Kampüsü" projesi temel alınarak fork edilmiş ve üzerinde kapsamlı geliştirmeler yapılarak bir **"Dil Öğrenme Koçu"** haline getirilmiştir. 
+Bu proje, **Dr. Ufuk Asıl** tarafından geliştirilen "AI Asistan Kampüsü" projesi temel alınarak fork edilmiş ve üzerinde kapsamlı geliştirmeler yapılarak bir **"Dil Öğrenme Koçu"** haline getirilmiştir. 
 
 DilKoçu AI, bilgisayarınızda (PDF, Word, Tarayıcı vb.) seçtiğiniz herhangi bir metni tek bir tıklamayla (**🤖 AI Butonu**) veya kısayol tuşuyla (**Shift + Alt + G**) analiz eder, sesli telaffuz eder ve size o metnin gramer yapısını öğreten bir asistan vazifesi görür.
 
@@ -109,4 +109,4 @@ Eğer `kurulum.sh` çalışırken bu hatayı alıyorsanız, sisteminiz Ubuntu/De
 ---
 
 ## 🤝 Teşekkür
-Bu projenin temellerini atan ve fikir babası olan **Ufuk Asıl**'a katkılarından dolayı teşekkür ederiz. Orijinal projeye [buradan](https://github.com/ufukasia/Introduction-to-Data-Visualization-Project-Assignment) ulaşabilirsiniz.
+Bu projenin temellerini atan ve fikir babası olan **Dr. Ufuk Asıl**'a katkılarından dolayı teşekkür ederiz. Orijinal projeye [buradan](https://github.com/u-asil) ulaşabilirsiniz.
