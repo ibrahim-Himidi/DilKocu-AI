@@ -136,8 +136,3 @@ Eğer `kurulum.sh` çalışırken bu hatayı alıyorsanız, sisteminiz Ubuntu/De
 - **Voice:** `gTTS` (Neural TTS - Yüksek Kalite)
 - **Audio Engine:** `Pygame` & System Players
 - **GUI:** `Tkinter` (Custom Dark Design)
-
----
-
-## 🤝 Teşekkür
-Bu projenin temellerini atan ve fikir babası olan **Dr. Ufuk Asıl**'a katkılarından dolayı teşekkür ederiz. Orijinal projeye [buradan](https://github.com/ufukasia/Introduction-to-Data-Visualization-Project-Assignment) ulaşabilirsiniz.
